@@ -50,3 +50,7 @@ The reason it exists is that as coders (especially freelance) we work with legac
 
 It is common in this type of context to have JS served as static files by Flask (exactly the case for the contract I'm in right now). I use decorator and Typescript is my everyday life, I was very bother to not be able to. So I'm going to make a proper lib, for all my fellow devs that have to work on horrible codebases and need a quick hack. It's not much, it won't ever be, but I like my quick and dirty hacks to be written using TDD.
 
+
+oh also,
+
+# IF THIS IS YOUR OWN CODEBASE YOU WANT USE THIS ON, YOU'RE A BAD CODER

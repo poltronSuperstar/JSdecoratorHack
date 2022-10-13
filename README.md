@@ -24,7 +24,8 @@ def send_static(path):
 
         return Response(data, mimetype='application/javascript')
 
-app.run(port=18791, host='127.0.0.1', debug=True)```
+app.run(port=18791, host='127.0.0.1', debug=True)
+```
 
 
 
